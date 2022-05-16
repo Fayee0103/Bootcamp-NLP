@@ -18,7 +18,7 @@ In this assignment, you will apply natural language processing to understand the
 
 ## Code
 
-[Starter Notebook](crypto_sentiment.ipynb)
+[crypto_sentiment](crypto_sentiment.ipynb)
 
 ---
 
